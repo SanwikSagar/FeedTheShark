@@ -70,3 +70,10 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+FeedTheShark_BackUpThisFolder_ButDontShipItWithYourGame/
+FeedTheShark_BurstDebugInformation_DoNotShip/
+FeedTheShark1_BackUpThisFolder_ButDontShipItWithYourGame/
+FeedTheShark1_BurstDebugInformation_DoNotShip/
+FeedTheSharkAR_BackUpThisFolder_ButDontShipItWithYourGame/
+FeedTheSharkAR_BurstDebugInformation_DoNotShip/
