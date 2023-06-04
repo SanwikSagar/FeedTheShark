@@ -5,7 +5,7 @@ using UnityEngine;
 public class pointsControl : MonoBehaviour
 {
 
-    public int points = 0;
+    public static int points = 0;
     public void OnCollisionEnter(Collision coll)
     {
         if (coll.gameObject.CompareTag("Fish"))

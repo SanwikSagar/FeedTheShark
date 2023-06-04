@@ -9,9 +9,8 @@ public class scenemanager : MonoBehaviour
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
     }
-    public void startgamescene()
+    /*public void startgamescene()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
-    }
-
+    }*/
 }
